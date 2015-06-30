@@ -21,9 +21,9 @@
 
 ## Usage
 
-> Click the Login With Facebook button to sign in using your facebook account
-> On the Eventlist page, view all the events posted by other users around you
-> If you want to post your own event, click the "Create New Event" button, fill in the description, and click "Publish Event"
+> Click the Login With Facebook button to sign in using your facebook account.
+> On the Eventlist page, view all the events posted by other users around you.
+> If you want to post your own event, click the "Create New Event" button, fill in the description, and click "Publish Event".
 
 ## Requirements
 
