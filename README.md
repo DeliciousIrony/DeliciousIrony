@@ -1,6 +1,7 @@
 # Project Name
 
 > EventLoop: A mobile platform that provides up to date information on events based on location.
+[deliciousirony.github.io/DeliciousIrony](https://deliciousirony.github.io/DeliciousIrony)
 
 ## Team
 
